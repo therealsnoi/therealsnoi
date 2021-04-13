@@ -10,6 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->git config --global Francesca Cortese
 git config --global francesca.cortese001@studenti.unicz.it
 git clone https://github.com/pzaffino/eica_20-21.git
-git pull
-
 
